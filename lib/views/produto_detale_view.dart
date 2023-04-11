@@ -13,7 +13,7 @@ class ProdutoDetalheView extends StatelessWidget {
   Widget build(BuildContext context) {
     final Produto produto =
         ModalRoute.of(context)!.settings.arguments as Produto;
-    //final produto = Provider.of<Produto>(context, listen: true);
+    //final produto = Provider.of<Produto>(context, listen: true); eita
     final pedido = Provider.of<Pedido>(context, listen: false);
     return Scaffold(
         appBar: AppBar(
