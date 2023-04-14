@@ -43,6 +43,7 @@ class MyApp extends StatelessWidget {
           ),
 
           // Define the default font family.
+          // definindo a fonte
           fontFamily: 'Lato',
 
           // Define the default `TextTheme`. Use this to specify the default
