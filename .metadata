@@ -4,8 +4,8 @@
 # This file should be version controlled.
 
 version:
-  #revision: c5da5070f10ebfdddc399e49dfa0fa18ed2cae6e
-  #channel: master
+  revision: c5da5070f10ebfdddc399e49dfa0fa18ed2cae6e
+  channel: master
 
 project_type: app
 
